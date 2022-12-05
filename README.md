@@ -64,3 +64,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Delcaración para el profe
+El sistema php me ha dado muy muy duro, escogí la opción 2 pero la elegí muy tarde... 
+si me puede reagalar hasta el día lunes 5de diciembre en horas de la noche termino el proceso de montar y actualizar todo. 
+ya vi como se hace y creo que me tardaría unas horas nada mas. lastimosamente debo trabajar y los cambios en mi trabajo me han dejado sin horarios para cumplir a cabalidad. 
+
+SI YA SE, MAS TIEMPO.... pensarás que este muchacho que? pero le recibo mas penalidad en la nota si así lo considera.
+
+De igual manera pienso terminarlo, no por la tarea sino, porque es un aprendizaje para mi.
+
+Muchas Gracias 
+
+Juan Diego Rico Urrego - PREELEC2202PC-TDS0032
+
+ ## pdta:
+ si puedo presentar la evaluación de la act 1 aunque sea sobre 3, le agradecería para que ese cero no me acabe de tumbar la nota. 
+Muchas Gracias.
